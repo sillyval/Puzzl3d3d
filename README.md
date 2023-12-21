@@ -10,4 +10,4 @@ I constantly make new things so expect this list to grow and change
 
 # My Website: https://puzzl3d.dev
 
-![](https://komarev.com/ghpvc/?username=puzzl3d3d)
+![](https://komarev.com/ghpvc/?username=puzzl3d3d&base=1000000)

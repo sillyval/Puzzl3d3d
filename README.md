@@ -1,5 +1,5 @@
 # My Experience
-Nearing 3 years Lua experience
+3 years Lua experience
 
 Over 4 years of Python experience
 

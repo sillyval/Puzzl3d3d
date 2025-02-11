@@ -1,11 +1,11 @@
-# My Experience
-3 years Lua experience
+# experience
+3 years Roblox Lua experience
 
 7 years of general programming experience
 
-# My Projects
-All the projects I am proud to showcase are starred, with my best work being pinned.
+# projects
+all the projects I am proud to showcase are starred, with my best work being pinned :3
 
-I constantly make new things so expect this list to grow and change
+i constantly make new things so expect this list to grow and change
 
-# My Website: https://puzzl3d.dev
+# more info at https://sillyval.net
